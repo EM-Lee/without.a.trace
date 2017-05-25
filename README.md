@@ -2,14 +2,12 @@
 
 #### a few traces
 
-[![](/pics/kendo_watercolor_by_hernysite_tn.jpg)](/pics/kendo_watercolor_by_hernysite.jpg)
+[![](/pics/kendo_watercolor_by_hernysite_tn.jpg)](https://em-lee.github.io/without.a.trace/pics/kendo_watercolor_by_hernysite.jpg)
 
 * [Miami Valley Kendo Club](http://miamivalleykendo.org/)
 
   * since 2015
   * Shodan \(初段\), Apr. 15, 2017
-
-
 
 ---
 
@@ -25,8 +23,6 @@
 
   * VAP, 2015 - 2017
 
-
-
 ---
 
 * Cartography, RS, GIS
@@ -35,11 +31,7 @@
 
 * Spatial Statistics
 
-
-
 * [my library](http://www.citeulike.org/user/emLee)
-
-
 
 ---
 
@@ -47,13 +39,9 @@
 
 * Python / R \(must be fluent\), Excel lover
 
-
-
 ---
 
 * [Sam](https://www.youtube.com/watch?v=ZFRzO_KZkkQ), [Beth](https://www.youtube.com/watch?v=UEHwO_UEp7A), [Jesper](https://www.youtube.com/watch?v=tFZUhm69jUg), ...
-
-
 
 ---
 
