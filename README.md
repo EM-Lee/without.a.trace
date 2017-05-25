@@ -1,25 +1,31 @@
 # without.a.trace
 
-#### A few traces
+#### a few traces
 
 [![](/pics/kendo_watercolor_by_hernysite_tn.jpg)](/pics/kendo_watercolor_by_hernysite.jpg)
 
 * [Miami Valley Kendo Club](http://miamivalleykendo.org/)
+
   * since 2015
   * Shodan \(初段\), Apr. 15, 2017
 
 * [University of Kansas](http://geog.ku.edu/), Lawrence, KS
+
   * Ph.D. \(Aug. 2014\): _Analysis of MODIS 250m NDVI Using Different Time-Series Data for Crop Type Separability_
+
 * [Kansas State University](http://www.k-state.edu/geography/), Manhattan, KS
   * VAP, 2013 - 2014
 * [Miami University](http://miamioh.edu/cas/academics/departments/geography/), Oxford, OH
+
   * VAP, 2015 - 2017
 
 * Cartography, RS, GIS
+
 * Data Visualization / Science
 * Spatial Statistics
 
 * Korean \(native\), English \(should be fluent\), Chinese \(good reading\)
+
 * Python / R \(must be fluent\), Excel lover
 
 * [Sam](https://www.youtube.com/watch?v=ZFRzO_KZkkQ), [Beth](https://www.youtube.com/watch?v=UEHwO_UEp7A), [Jesper](https://www.youtube.com/watch?v=tFZUhm69jUg), ...
