@@ -1,8 +1,14 @@
+@KU
+
 * Geog105 \(Lab\): Introductory Lab in Physical Geography
 * Geog358 \(Lab\): Principles of GIS
 * Geog558 \(Lab\): Intermediate GIS
+* Geog726 \(Lab\): Remote Sensing II
+* Geog526: Remote Sensing Environment I
 
 ---
+
+@K-State
 
 * Geog100: World Regional Geography
 * Geog302: Cartography & Thematic Mapping
@@ -10,10 +16,7 @@
 
 ---
 
-* Geog526: Remote Sensing Environment I
-* Geog726 \(Lab\): Remote Sensing II
-
----
+@Miami
 
 * Geo101: Global Forces, Local Diversity
 * Geo242: Mapping a Changing World
