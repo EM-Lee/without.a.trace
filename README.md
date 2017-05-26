@@ -14,7 +14,7 @@
 * [University of Kansas](http://geog.ku.edu/), Lawrence, KS
 
   * Ph.D. \(Aug. 2014\): _Analysis of MODIS 250m NDVI Using Different Time-Series Data for Crop Type Separability_
-  * Lecture / Lab Instructor, 2014 - 2015
+  * Lecturer / Lab Instructor, 2014 - 2015
 
 * [Kansas State University](http://www.k-state.edu/geography/), Manhattan, KS
 
