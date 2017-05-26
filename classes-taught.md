@@ -1,0 +1,23 @@
+* Geog105 \(Lab\): Introductory Lab in Physical Geography
+* Geog358 \(Lab\): Principles of GIS
+* Geog558 \(Lab\): Intermediate GIS
+
+---
+
+* Geog100: World Regional Geography
+* Geog302: Cartography & Thematic Mapping
+* Geog508: GIS I
+
+---
+
+* Geog526: Remote Sensing Environment I
+* Geog726 \(Lab\): Remote Sensing II
+
+---
+
+* Geo101: Global Forces, Local Diversity
+* Geo242: Mapping a Changing World
+* Geo460/560: [New Techniques in GIScience](https://leee5.gitbooks.io/new-techniques-in-giscience/content/)
+
+
+
