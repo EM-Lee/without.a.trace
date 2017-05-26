@@ -2,7 +2,7 @@
 
 #### a few traces of Lee, Eunmok / 李, 垠穆
 
-[![](/pics/kendo_watercolor_by_hernysite_tn.jpg)](https://em-lee.github.io/without.a.trace/pics/kendo_watercolor_by_hernysite.jpg)
+[![](/pics/kendo_watercolor_by_hernysite_tn.jpg)](https://em-lee.github.io/without.a.trace/pics/kendo_watercolor_by_hernysite.jpg) image source: [_Hernysite_](http://hernysite.deviantart.com/art/Kendo-Watercolor-263234830)
 
 * [Miami Valley Kendo Club](http://miamivalleykendo.org/)
 
