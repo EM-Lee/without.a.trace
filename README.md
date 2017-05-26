@@ -1,6 +1,6 @@
 # without.a.trace
 
-#### a few traces
+#### a few traces of Lee, Eunmok / 李, 垠穆 
 
 [![](/pics/kendo_watercolor_by_hernysite_tn.jpg)](https://em-lee.github.io/without.a.trace/pics/kendo_watercolor_by_hernysite.jpg)
 
@@ -32,7 +32,9 @@
 
 * Spatial Statistics
 
-* [my library](http://www.citeulike.org/user/emLee)
+* [MyCiteULike](http://www.citeulike.org/user/emLee)
+
+  * [IJRS\_2016.01.12](https://em-lee.github.io/without.a.trace/myPapers/IJRS_2016.01.12.pdf)
 
 ---
 
