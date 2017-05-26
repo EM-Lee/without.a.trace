@@ -6,10 +6,11 @@
 
 * [Miami Valley Kendo Club](http://miamivalleykendo.org/)
 
-  * since 2015
+  * joined since summer 2015
   * Shodan \(初段\), Apr. 15, 2017
 
 * Kendo / 劍道
+
   * [Kendo in High Speed Camera](https://www.youtube.com/watch?v=Q4SHWXQBVL4&t=1s)
   * [Kendo - The King](https://www.youtube.com/watch?v=0_Dk_QtWDMI)
   * [Kendo docu - 8th Dan Test](https://www.youtube.com/watch?v=ylpdy0XEOfw&index=2&list=PL4A54AC1242242FE4)
