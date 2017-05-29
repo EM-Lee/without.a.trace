@@ -44,7 +44,7 @@
 
 ---
 
-* Korean \(native\), English \(should be fluent\), Chinese \(good reading\)
+* Korean \(native\), English \(should be fluent\), Chinese \(good reading comprehension\)
 
 * Python / R \(must be fluent\), Excel lover
 
