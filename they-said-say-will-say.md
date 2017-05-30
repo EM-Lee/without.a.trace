@@ -4,12 +4,11 @@
 * Obedience, respect for authority - just another name for controlling people. The truth is obedience and respect should not be automatic. They should be earned. They should be based on the parent's performance. Parent's performance. Some parents deserve respect. Most of them don't, period. 
 * Capital creates space-time.
 * Capitalists behave like capitalists wherever they are. They pursue the expansion of value through exploitation without regard to the social consequences.
-* when you get caught b/w the Moon and NY City    
-  the best thing you can do is fall in love.
-
-* we thought we could change this world    
-  with words like "love" and "freedom"    
-  we were part of the lonely crowd    
+* when you get caught b/w the Moon and NY City  
+  the best thing you can do is fall in love
+* we thought we could change this world  
+  with words like "love" and "freedom"  
+  we were part of the lonely crowd  
   inside the sad cafe
 
 
