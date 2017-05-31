@@ -1,4 +1,4 @@
-@academia
+* @academia
 
 * [_Data Visualization_](http://www.users.miamioh.edu/leee5/Menu/index.htm): a little try with R, pop. pyramid
 
@@ -19,6 +19,11 @@
 * [_Bruce Lee_](https://www.brucelee.com/)
 * [_Lee, MK_](http://www.leemk.com/): 구멍가게  
   ![](/pics/littleStore_LMK.jpg)
+* [_Kim, HJ_](http://kimhyunjung.kr/)  
+
+  ![](/pics/ssam_KHJ.jpg)
+
+
 
 
 
