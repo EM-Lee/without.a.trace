@@ -23,5 +23,9 @@
 
   ![](/pics/ssam_KHJ.jpg)
 
+* [_Choi, HC_](http://www.komacon.kr/dmk/manhwazine/zine_view.asp?cateNum=419&Tag=&seq=510&nowPage=324&srh_fld=&srh_txt=)    
+  
+  ![](/pics/subwayLine2.jpg)
+
 
 
