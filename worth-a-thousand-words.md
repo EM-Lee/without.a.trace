@@ -15,15 +15,13 @@
   * the most adorable troublemaker
 
   * image from here: [&gt;&gt;&gt;](http://www.zbrushcentral.com/showthread.php?176969-Monkey-King)    
-
-
+  
     ![](/pics/ogong.jpg)
 
 * my favorite character: Cobra with psychogun
 
   * awakened space pirate
-  * image from here: [&gt;&gt;&gt;](http://lhomanimale.deviantart.com/art/Space-Adventure-Cobra-201165520)
-
+  * image from here: [&gt;&gt;&gt;](http://lhomanimale.deviantart.com/art/Space-Adventure-Cobra-201165520)    
     ![](/pics/cobra.jpg)
 
 
