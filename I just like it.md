@@ -1,9 +1,10 @@
 * 問余何事棲碧山  
-  笑而不答心自閑    
-  桃花流水杳然去    
-  別有天地非人間
+  笑而不答心自閑  
+  桃花流水杳然去  
+  別有天地非人間     - 李白
 
 * [_Bruce Lee_](https://www.brucelee.com/)
+
 * [_Lee, MK_](http://www.leemk.com/): 구멍가게  
   ![](/pics/littleStore_LMK.jpg)
 * [_Kim, HJ_](http://kimhyunjung.kr/)
