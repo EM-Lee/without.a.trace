@@ -1,3 +1,5 @@
+* Practice and all is coming.
+
 * Do your practice everyday. You will love your practice and it's going to be a part of you.
 
 * The most important thing in your life is to be happy.
