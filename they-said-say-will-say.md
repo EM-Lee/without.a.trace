@@ -1,4 +1,4 @@
-* GODISNOWHERE. now here or nowhere?
+* GODISNOWHERE! (shh, now here or nowhere?)
 
 * Practice and all is coming.
 
