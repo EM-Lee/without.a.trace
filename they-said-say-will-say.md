@@ -1,4 +1,4 @@
-The method is simple: practice every day for many years.
+* The method is simple: practice every day for many years.
 
 * GODISNOWHERE! (shh, now here or nowhere?)
 
