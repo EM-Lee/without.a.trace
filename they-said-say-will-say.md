@@ -1,3 +1,5 @@
+The method is simple: practice every day for many years.
+
 * GODISNOWHERE! (shh, now here or nowhere?)
 
 * Practice and all is coming.
