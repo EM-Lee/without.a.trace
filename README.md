@@ -28,7 +28,7 @@
 
 * [Miami University](http://miamioh.edu/cas/academics/departments/geography/), Oxford, OH
 
-  * VAP, 2015 - 2017
+  * VAP, 2015 - current
 
 ---
 
