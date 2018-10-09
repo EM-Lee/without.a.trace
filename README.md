@@ -31,7 +31,7 @@
   * VAP, 2015 - 2018
 
 * [Rowan University](https://academics.rowan.edu/see/departments/geography/about/facstaff/faculty.html), Glassboro, OH
-  * VAP, 2018 - present
+  * Instructor, 2018 - present
 
 ---
 
