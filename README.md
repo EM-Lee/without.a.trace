@@ -28,7 +28,10 @@
 
 * [Miami University](http://miamioh.edu/cas/academics/departments/geography/), Oxford, OH
 
-  * VAP, 2015 - present
+  * VAP, 2015 - 2018
+
+* [Rowan University](https://academics.rowan.edu/see/departments/geography/about/facstaff/faculty.html), Glassboro, OH
+  * VAP, 2018 - present
 
 ---
 
@@ -54,7 +57,7 @@
 
 ---
 
-* [SF](https://www.youtube.com/watch?v=tYhDwmhRQOk), [another SF](https://www.youtube.com/watch?v=bch1_Ep5M1s), [CO](https://www.youtube.com/watch?v=eOB4VdlkzO4), [KS](https://www.youtube.com/watch?v=tH2w6Oxx0kQ), [Chicago](https://www.youtube.com/watch?v=m0zyuc_2UVg), [Philly](https://www.youtube.com/watch?v=4z2DtNW79sQ), [OH](https://www.youtube.com/watch?v=68g76j9VBvM), [NY](https://www.youtube.com/watch?v=gnBPHWk5FQ8), [NY one more](https://www.youtube.com/watch?v=d0F7ZzoZR1k), [JJ](https://www.youtube.com/watch?v=GH23iryfZbI), ...
+* [SF](https://www.youtube.com/watch?v=tYhDwmhRQOk), [another SF](https://www.youtube.com/watch?v=bch1_Ep5M1s), [CO](https://www.youtube.com/watch?v=eOB4VdlkzO4), [KS](https://www.youtube.com/watch?v=tH2w6Oxx0kQ), [Chicago](https://www.youtube.com/watch?v=m0zyuc_2UVg), [OH](https://www.youtube.com/watch?v=68g76j9VBvM), [Philly](https://www.youtube.com/watch?v=4z2DtNW79sQ), [NJ](https://www.youtube.com/watch?time_continue=17&v=JDUjeR01wnU), [NY](https://www.youtube.com/watch?v=gnBPHWk5FQ8), [NY one more](https://www.youtube.com/watch?v=d0F7ZzoZR1k), [JJ](https://www.youtube.com/watch?v=GH23iryfZbI), ...
 
 
 
