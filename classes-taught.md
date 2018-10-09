@@ -22,5 +22,14 @@
 * Geo242: Mapping a Changing World
 * Geo460/560: [New Techniques in GIScience](https://leee5.gitbooks.io/new-techniques-in-giscience/content/)
 
+---
+
+@Rowan
+
+* Geo16250: Environmental GIS
+* Geo16260: Fundamentals of GIS
+* Geo16375: Remote Sensing of Environment
+
+
 
 
