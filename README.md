@@ -30,8 +30,10 @@
 
   * VAP, 2015 - 2018
 
-* [Rowan University](https://academics.rowan.edu/see/departments/geography/about/facstaff/faculty.html), Glassboro, OH
-  * Instructor, 2018 - present
+* [Rowan University](https://academics.rowan.edu/see/departments/geography/about/facstaff/faculty.html), Glassboro, NJ
+  * Instructor, 2018 - 2019
+* [Dept. of Natural Resources](https://www.in.gov/dnr/)
+  * GIS Specialist, 2019 - present
 
 ---
 
